@@ -1,10 +1,27 @@
 
-### Hi there I'm Max 👋
-### My stats:
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=MvxJ&show_icons=true&theme=radical" >
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvxJ&layout=compact&theme=radical&hide=css,html" >
+### 
+<h1>Hi there I'm Max 👋</p>
 
-### Technologies:
+### About me:
+<div style="width=100%;display:flex;justify-content:space-around;">
+    <div style="width:47%;">
+        sample about me
+        asdasdasddsadasdasdsadsdsdsaddsfdsfdsfdsfdsfsadsadsadsdsdsadsasda
+    </div>
+    <div style="width:47%;">
+        <img width="100%" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80">
+    </div>
+</div>
+
+### My GitHub statistics:
+<div style="width=100%;display:flex;justify-content:space-around">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MvxJ&show_icons=true&theme=radical" >
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvxJ&layout=compact&theme=radical&hide=css,html" >
+</div>
+
+<hr>
+
+### Technologies I'm using:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -21,11 +38,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-### Version control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Operating system's
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
