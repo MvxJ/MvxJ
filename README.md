@@ -13,9 +13,6 @@
             <li>📫 How to reach me: <a href="mailto:maksymilianjachymczak@gmail.com">maksymilianjachymczak@gmail.com</a></li>
         </ul>
     </div>
-    <div style="width:47%;">
-        <img width="100%" style="border-radius:5px;" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
-    </div>
 </div>
 
 <hr>
