@@ -9,6 +9,7 @@
             <li>🎓 I'm 22 years old IT student.</li>
             <li>💻 Currently working in PHP & Symfony</li>
             <li>🏭 Building shops using Shopware!</li>
+            <li>🐛 I like creating plugins & resolving bugs</li>
             <li>📫 How to reach me: <a href="mailto:maksymilianjachymczak@gmail.com">maksymilianjachymczak@gmail.com</a></li>
         </ul>
     </div>
