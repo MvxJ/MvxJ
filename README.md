@@ -6,8 +6,9 @@
 <div style="width=100%;display:flex;justify-content:space-around;">
     <div style="width:47%;">
         <ul>
-            <li>🎓 I'm 22 years old IT student.</li>
+            <li>🎓 I'm 24 years old IT student.</li>
             <li>💻 Currently working in PHP & Symfony</li>
+            <li>🏭 Building web application using Symfony!</li>
             <li>🏭 Building shops using Shopware!</li>
             <li>🐛 I like creating plugins & resolving bugs</li>
             <li>📫 How to reach me: <a href="mailto:maksymilianjachymczak@gmail.com">maksymilianjachymczak@gmail.com</a></li>
